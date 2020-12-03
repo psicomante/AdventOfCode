@@ -1,3 +1,5 @@
+from functools import reduce
+
 def entriesThatSum(k, m, n):
     """
     Returns the first list of m elements on n array that sums to k
